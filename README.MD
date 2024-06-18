@@ -4,9 +4,9 @@ Rails API to calculate products taxes in a shopping.
 
 * **Technologies used**
 
-	- `[font-awesome 5.15.4](https://fontawesome.com/v5/search?o=r&m=free)`
+	- [font-awesome 5.15.4](https://fontawesome.com/v5/search?o=r&m=free)
 
-	- `[Bulma Framework v1.0.0](https://bulma.io/)`
+	- [Bulma Framework v1.0.0](https://bulma.io/)
 
 * **How to use**
 
