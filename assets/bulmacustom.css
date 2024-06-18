@@ -1,0 +1,10 @@
+.center-container {
+    text-align: -webkit-center;
+}
+
+html,body {
+    font-family: 'Questrial', sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    background-color: #70D6DD;
+  }
